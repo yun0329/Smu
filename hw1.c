@@ -4,7 +4,7 @@ int main()
 	int num1, num2;
 	int result1, result2, result3;
 
-	printf("µÎ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä. :");
+	printf("ÂµÃ ÃÂ¤Â¼Ã¶Â¸Â¦ Ã€Ã”Â·Ã‚Ã‡ÃÂ¼Â¼Â¿Ã¤. :");
 	scanf("%d,%d", &num1, &num2);
 
 	result1 = num1 & num2;
@@ -16,4 +16,5 @@ int main()
 	printf("%d ^ %d= %d\n",num1,num2, result3);
 
 	return 0;
+	
 }
