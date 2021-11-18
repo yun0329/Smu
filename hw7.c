@@ -29,7 +29,7 @@ int main()
 	scanf("%f %f %f %f %f", &su[0], &su[1], &su[2], &su[3], &su[4]);
 	value1 = Q(su);
 
-	printf("%.3f", value1);
+	printf("Standard Deviation = %.3f", value1);
 
 
 
